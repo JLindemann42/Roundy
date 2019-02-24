@@ -1,21 +1,25 @@
 {
   "wallpapers": [
     {
+      "author": "Unsplash",
       "url": "https://coreelementsgame.com/wallpapers/20190223.jpg",
       "name": "Mountain 01",
       "thumbnail": "https://coreelementsgame.com/wallpapers/thumbs/20190223.jpg"
     },
     {
+      "author": "Unsplash",
       "url": "https://coreelementsgame.com/wallpapers/20190206.jpg",
       "name": "Bridge 01",
       "thumbnail": "https://coreelementsgame.com/wallpapers/thumbs/20190206.jpg"
     },
     {
+      "author": "Unsplash",
       "url": "https://coreelementsgame.com/wallpapers/20190209.jpg",
       "name": "Building 01",
       "thumbnail": "https://coreelementsgame.com/wallpapers/thumbs/20190209.jpg"
     },
     {
+      "author": "Unsplash",
       "url": "https://coreelementsgame.com/wallpapers/20190202.jpg",
       "name": "City 01",
       "thumbnail": "https://coreelementsgame.com/wallpapers/thumbs/20190202.jpg"
